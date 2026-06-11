@@ -1,0 +1,14 @@
+#----------------------------------Variables and Data Types---------------------------------------------------------------
+
+#variables - used to store data
+
+#data types - the type of data that a variable can hold. The most common data types in Python are:
+#1. int - used to store whole numbers
+#2. float - used to store decimal numbers
+#3. str - used to store text
+#4. bool - used to store True or False values
+#5. list - used to store a collection of items
+#6. tuple - used to store a collection of items that cannot be changed
+#7. dict - used to store a collection of key-value pairs
+#8. set - used to store a collection of unique items
+#9. NoneType - used to represent the absence of a value
